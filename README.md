@@ -11,6 +11,9 @@ This project demonstrates basic MongoDB operations such as creating a database, 
 ### Commands to Create and Populate the Database
 
 1. **Create the Database:**
+```js
+use Codetribe
+```
 
 2. **Insert Documents into Collections:**
 
